@@ -1,0 +1,25 @@
+{
+  "name": "nicar2020",
+  "version": "1.0.0",
+  "main": "nicar2020.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "jonkeegan",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "html-table-to-json": "^1.0.0",
+    "puppeteer": "^2.0.0"
+  },
+  "devDependencies": {},
+  "description": "Scraping with Puppeteer example",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonkeegan/nicar2020.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jonkeegan/nicar2020/issues"
+  },
+  "homepage": "https://github.com/jonkeegan/nicar2020#readme"
+}
