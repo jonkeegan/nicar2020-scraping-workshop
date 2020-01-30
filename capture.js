@@ -6,7 +6,9 @@ let the_url = "http://airquality.deq.louisiana.gov/Data/Site/CITYPARK/Date/2020-
 
 async function init() {
   try {
-    let browser = await puppeteer.launch({ headless: false });
+    let browser = await puppeteer.launch({ 
+      headless: true,
+      args: ["--no-sandbox", "--disable-setuid-sandbox"] });
 
     // set up puppeteer browser obj....
     let page = await browser.newPage();
