@@ -36,7 +36,7 @@ async function init() {
 
     return true;
   } catch (err) {
-    console.log("[capture] start - Could not execute: " +,err);
+    console.log("[capture] start - Could not execute: " ,err);
   }
 }
 init();
