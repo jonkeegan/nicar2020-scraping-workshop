@@ -30,6 +30,7 @@ Make sure you have `node.js` installed. On the Mac, you can do this quickly with
 ```
 brew install node
 ```
+You can find instructions for [installing on Windows / Linux here](https://nodejs.org/en/download/package-manager/).
 
 ## Installation
 
