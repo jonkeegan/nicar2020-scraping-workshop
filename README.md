@@ -13,12 +13,12 @@ This page publishes hourly air quality data for a number of locations across the
 
 ## The data
 
-**TIME** is the hour when the data was collected
-**ITEMP** is the temperature in degrees celcius
-**PM10** describes inhalable particles, with diameters that are generally 10 micrometers and smaller.
-**PM2.5** describes fine inhalable particles, with diameters that are generally 2.5 micrometers and smaller.
-**WDIR** is the wind direction in degrees
-**WSP** is the wind speed in miles per hour
+- **TIME** is the hour when the data was collected
+- **ITEMP** is the temperature in degrees celcius
+- **PM10** describes inhalable particles, with diameters that are generally 10 micrometers and smaller.
+- **PM2.5** describes fine inhalable particles, with diameters that are generally 2.5 micrometers and smaller.
+- **WDIR** is the wind direction in degrees
+- **WSP** is the wind speed in miles per hour
  
  *Source for key descriptions: https://www.epa.gov/air-trends*
 ## Requirements
