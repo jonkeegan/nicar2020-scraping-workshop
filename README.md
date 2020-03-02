@@ -14,7 +14,7 @@ This page publishes hourly air quality data for a number of locations across the
 ## The data
 
 - **TIME** is the hour when the data was collected
-- **ITEMP** is the temperature in degrees celcius
+- **ITEMP** is the temperature in degrees celsius
 - **PM10** describes inhalable particles, with diameters that are generally 10 micrometers and smaller.
 - **PM2.5** describes fine inhalable particles, with diameters that are generally 2.5 micrometers and smaller.
 - **WDIR** is the wind direction in degrees
